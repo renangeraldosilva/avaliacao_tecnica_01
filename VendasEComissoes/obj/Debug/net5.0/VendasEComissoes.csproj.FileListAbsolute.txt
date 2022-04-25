@@ -1,0 +1,16 @@
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.exe
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.deps.json
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.runtimeconfig.json
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.runtimeconfig.dev.json
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.dll
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\bin\Debug\net5.0\VendasEComissoes.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.dll
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\refint\VendasEComissoes.dll
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\VendasEComissoes.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Área de Trabalho\AvaliacaoTecnica01\VendasEComissoes\obj\Debug\net5.0\ref\VendasEComissoes.dll
